@@ -2,6 +2,10 @@ An intelligent traffic light control system based on computer vision.
 Analyzes the road situation in real time, detects vehicles and pedestrians,  
 calculates optimal traffic light phase durations, and saves statistics.
 
+## Demo
+
+![Smart Traffic AI Demo](https://raw.githubusercontent.com/IbrokhimN/trafic-detector/main/docs/vids/video.gif)
+
 ## Features
 
 - region of Interest selection to count objects only within the road area
